@@ -1,17 +1,1 @@
-# go-utils
-
-This is a go util lib for daily use.
-
-## Usage
-
-```
-go get -u github.com/fredgan/go-utils
-```
-
-## Dependency
-
-```
-toml
-mysql
-```
-
+这是通过API更新的文件内容
